@@ -1,6 +1,6 @@
 
-**Tu Nombre**
-*Apellido Apellido*
+**NICOLE HALE**
+*CALDERON KANCHI*
 
 ---
 
@@ -49,7 +49,7 @@
 
 ## Perfil Profesional
 
-Estudiante .
+Estudiantede enfermeria y tecnico medio en sistemas informaticos .
 
 ---
 
