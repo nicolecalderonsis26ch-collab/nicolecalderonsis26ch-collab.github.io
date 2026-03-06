@@ -1,4 +1,3 @@
-
 **NICOLE HALE**
 *CALDERON KANCHI*
 
@@ -37,10 +36,6 @@
 - Comunicación efectiva
 - Aprendizaje autónomo
 
-</div>
-
-<div class="main-content">
-
 # CALDERON KANCHI NICOLE HALE
 
 *Nicole Hale Calderon Kanchi*
@@ -75,8 +70,6 @@ Estudiantede enfermeria y tecnico medio en sistemas informaticos .
 ---
 
 <!-- Página 2: Experiencia + Habilidades detalladas -->
-
-<div style="padding: 48px 60px; background: #0d1117; height: 100%;">
 
 # Habilidades Técnicas
 
